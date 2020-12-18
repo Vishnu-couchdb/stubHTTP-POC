@@ -1,0 +1,23 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "Cypress test to stub HTTP request with UI Tests",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishnu-couchdb/stubHTTP-POC.git"
+  },
+  "author": "Vishnu Mani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishnu-couchdb/stubHTTP-POC/issues"
+  },
+  "homepage": "https://github.com/Vishnu-couchdb/stubHTTP-POC#readme"
+}
